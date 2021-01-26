@@ -1,0 +1,5 @@
+# pip install -U -r requirements.txt
+opencv-python
+dlib
+
+#conda install -c conda-forge dlib
